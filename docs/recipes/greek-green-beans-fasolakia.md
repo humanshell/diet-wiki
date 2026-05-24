@@ -67,9 +67,9 @@ nutrition_note: Based on 4 servings. A lower-protein dish by nature (vegetables 
 why_this_recipe_fits: |
   Fasolakia Lathera is a Greek kitchen staple — humble, affordable, and deeply representative of the Mediterranean approach to vegetables: low-and-slow cooking in olive oil with onion, tomato, and herbs. It delivers 8g of fiber per serving with minimal fat (mostly monounsaturated from EVOO) and no cholesterol. The dish is budget-friendly, stores well for meal prep, and tastes even better the next day as the flavors meld.
 wikilinks:
-  - [[vegetable]]
-  - [[extra-virgin-olive-oil]]
-  - [[mediterranean-herbs]]
+  - [vegetable](../entities/vegetable.md)
+  - [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+  - [mediterranean-herbs](../entities/mediterranean-herbs.md)
 related_recipes:
   - shakshuka
   - mediterranean-white-bean-soup

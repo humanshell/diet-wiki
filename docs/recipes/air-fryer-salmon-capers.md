@@ -63,9 +63,9 @@ nutrition_note: Based on 4 servings (one 6-ounce fillet per person). Salmon is e
 why_this_recipe_fits: |
   Salmon is one of the most cardioprotective foods in the Mediterranean pattern — the omega-3 fatty acids (EPA and DHA) reduce triglycerides, lower blood pressure, and stabilize heart rhythm. One fillet delivers 42g of protein and 1.8g of omega-3s. Air frying uses a fraction of the oil compared to pan-searing while still delivering crispy edges. Capers add a briny, umami pop that replaces the need for additional salt.
 wikilinks:
-  - [[fish]]
-  - [[canola-oil]]
-  - [[mediterranean-herbs]]
+  - [fish](../entities/fish.md)
+  - [canola-oil](../entities/canola-oil.md)
+  - [mediterranean-herbs](../entities/mediterranean-herbs.md)
 related_recipes:
   - greek-green-beans-fasolakia
   - mediterranean-white-bean-soup

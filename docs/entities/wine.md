@@ -31,7 +31,7 @@ In the traditional Mediterranean pattern (Crete, 1960s), wine was consumed daily
 
 ## Clinical Considerations
 
-- The [[2026-acc-aha-dyslipidemia-guidelines]] and prior guidelines acknowledge moderate alcohol consumption as an individual consideration within overall dietary patterns
+- The [2026-acc-aha-dyslipidemia-guidelines](2026-acc-aha-dyslipidemia-guidelines.md) and prior guidelines acknowledge moderate alcohol consumption as an individual consideration within overall dietary patterns
 - Wine is not recommended as a cardioprotective strategy for non-drinkers (the risk of initiating alcohol use outweighs uncertain benefits)
 - Individuals with a history of atrial fibrillation, liver disease, or certain medications should avoid alcohol entirely
 - The Mediterranean diet without wine remains cardioprotective, as demonstrated by the Lyon Diet Heart Study, which did not include alcohol recommendations

@@ -20,7 +20,7 @@ A foundational herb in Italian and Greek cuisine, used in pestos, salads (capres
 A strongly flavored dried herb in Greek and Turkish cuisine, used on grilled meats, in tomato sauces, and in salad dressings. Oregano is one of the most antioxidant-dense culinary herbs, particularly high in carvacrol and thymol, which have demonstrated antimicrobial and anti-inflammatory properties.
 
 ### Thyme (Thymus vulgaris)
-Used in Mediterranean meat, vegetable, and legume dishes. Thyme contains thymol and rosmarinic acid, both studied for their anti-inflammatory effects and contribution to the [[anti-inflammatory-environment]].
+Used in Mediterranean meat, vegetable, and legume dishes. Thyme contains thymol and rosmarinic acid, both studied for their anti-inflammatory effects and contribution to the [anti-inflammatory-environment](../concepts/anti-inflammatory-environment.md).
 
 ### Rosemary (Rosmarinus officinalis)
 Common in Italian and Spanish cooking, rosemary contains rosmarinic acid, carnosol, and carnosic acid — compounds with strong antioxidant activity and preliminary evidence for cognitive health benefits.
@@ -31,4 +31,4 @@ Herbs are used as the primary seasoning in Mediterranean cooking — replacing s
 
 ## Cardiovascular Connection
 
-The liberal use of herbs in Mediterranean cooking supports [[sodium-reduction]] by providing intense flavor without sodium. The polyphenolic compounds in herbs — including rosmarinic acid, eugenol, and apigenin — contribute to the overall anti-inflammatory polyphenol load of the Mediterranean dietary pattern, supporting endothelial function and the [[anti-thrombotic-environment]].
+The liberal use of herbs in Mediterranean cooking supports [sodium-reduction](../concepts/sodium-reduction.md) by providing intense flavor without sodium. The polyphenolic compounds in herbs — including rosmarinic acid, eugenol, and apigenin — contribute to the overall anti-inflammatory polyphenol load of the Mediterranean dietary pattern, supporting endothelial function and the [anti-thrombotic-environment](../concepts/anti-thrombotic-environment.md).

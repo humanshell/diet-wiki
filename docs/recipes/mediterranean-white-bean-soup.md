@@ -67,9 +67,9 @@ A simple, weeknight-friendly soup loaded with bold Mediterranean flavor. Vegan a
 
 ## Why This Recipe Fits the Mediterranean Diet
 
-- **[[legumes]]** (cannellini beans) — excellent plant-based protein, high in fiber (13.8g per serving)
-- [[vegetable]]-rich: spinach, carrots, celery, onion, garlic
-- [[extra-virgin-olive-oil]] as the cooking fat — Mediterranean diet foundation
+- **[legumes](../entities/legumes.md)** (cannellini beans) — excellent plant-based protein, high in fiber (13.8g per serving)
+- [vegetable](../entities/vegetable.md)-rich: spinach, carrots, celery, onion, garlic
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md) as the cooking fat — Mediterranean diet foundation
 - **Vegan and gluten-free** — suitable for most dietary needs
 - Very low sodium (106mg per serving) — naturally heart-healthy
 - White wine vinegar adds tang without added salt — supports blood pressure goals
@@ -88,8 +88,8 @@ A simple, weeknight-friendly soup loaded with bold Mediterranean flavor. Vegan a
 - **Canned beans & BPA**: Look for organic BPA-free canned beans, or cook dried beans yourself
 
 ## Related Pages
-- [[mediterranean-diet]]
-- [[legumes]]
-- [[vegetable]]
-- [[extra-virgin-olive-oil]]
-- [[chronic-kidney-disease]] (lower sodium option — only 106mg/serving)
+- [mediterranean-diet](../entities/mediterranean-diet.md)
+- [legumes](../entities/legumes.md)
+- [vegetable](../entities/vegetable.md)
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+- [chronic-kidney-disease](../concepts/chronic-kidney-disease.md) (lower sodium option — only 106mg/serving)

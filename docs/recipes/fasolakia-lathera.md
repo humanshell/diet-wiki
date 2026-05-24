@@ -50,17 +50,17 @@ instructions:
 
 # Greek Green Beans (Fasolakia Lathera)
 
-Tender cooked Greek green beans with potatoes stewed in tomato, herbs and [[extra-virgin-olive-oil]]. These beans are so smooth and velvety, they melt in your mouth.
+Tender cooked Greek green beans with potatoes stewed in tomato, herbs and [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md). These beans are so smooth and velvety, they melt in your mouth.
 
 ## Rating
 ★★★★★ **5.0/5** (73 ratings, 11 reviews) — [View on Olive Tomato](https://www.olivetomato.com/greek-style-green-beans-fasolakia-lathera/)
 
 ## Why This Recipe Fits the Mediterranean Diet
 
-- **[[extra-virgin-olive-oil]]** as the primary fat — cornerstone of Mediterranean nutrition
-- **[[legumes]]** (green beans) providing fiber and plant-based protein
+- **[extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)** as the primary fat — cornerstone of Mediterranean nutrition
+- **[legumes](../entities/legumes.md)** (green beans) providing fiber and plant-based protein
 - No processed ingredients — whole, minimal components
-- [[vegetable]]-forward dish with simple preparation
+- [vegetable](../entities/vegetable.md)-forward dish with simple preparation
 - Suitable for plant-based diets when served without feta cheese
 
 ## Recipe Notes
@@ -70,7 +70,7 @@ Tender cooked Greek green beans with potatoes stewed in tomato, herbs and [[extr
 - The dish improves with make-ahead resting time, allowing flavors to meld
 
 ## Related Pages
-- [[mediterranean-diet]]
-- [[extra-virgin-olive-oil]]
-- [[vegetable]]
-- [[legumes]]
+- [mediterranean-diet](../entities/mediterranean-diet.md)
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+- [vegetable](../entities/vegetable.md)
+- [legumes](../entities/legumes.md)

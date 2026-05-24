@@ -63,16 +63,16 @@ A delicious Greek chicken salad topped with diced avocado, fresh vegetables, kal
 
 ## Why This Recipe Fits the Mediterranean Diet
 
-- **Lean protein** from [[poultry]] — skinless, baked with herbs
-- [[canola-oil]] from avocado and olive oil-based dressing
-- **[[vegetable]]**-rich: cucumber, tomatoes, bell pepper, red onion
-- [[legumes]] via kalamata olives (healthy fats + minerals)
+- **Lean protein** from [poultry](../entities/poultry.md) — skinless, baked with herbs
+- [canola-oil](../entities/canola-oil.md) from avocado and olive oil-based dressing
+- **[vegetable](../entities/vegetable.md)**-rich: cucumber, tomatoes, bell pepper, red onion
+- [legumes](../entities/legumes.md) via kalamata olives (healthy fats + minerals)
 - Feta cheese provides calcium and tangy flavor in moderation
 - High in fiber (6g per serving) — supports heart health and satiety
 
 ## Recipe Notes
 
-- Make it a complete Mediterranean meal by serving with a side of [[extra-virgin-olive-oil]]-dipped whole grain pita
+- Make it a complete Mediterranean meal by serving with a side of [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)-dipped whole grain pita
 - Spice-rubbed chicken stays moist — do not overcook
 - Great for meal prep: store components separately and assemble fresh
 - Leftover chicken (up to 3 days) works well for quick assembly
@@ -83,8 +83,8 @@ A delicious Greek chicken salad topped with diced avocado, fresh vegetables, kal
 - **Lower sodium**: Use fewer kalamata olives and increase cucumber for volume
 
 ## Related Pages
-- [[mediterranean-diet]]
-- [[vegetable]]
-- [[poultry]]
-- [[extra-virgin-olive-oil]]
-- [[legumes]]
+- [mediterranean-diet](../entities/mediterranean-diet.md)
+- [vegetable](../entities/vegetable.md)
+- [poultry](../entities/poultry.md)
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+- [legumes](../entities/legumes.md)

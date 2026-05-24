@@ -43,18 +43,18 @@ instructions:
 
 # Everyday Mediterranean Salad
 
-A simple and quick Mediterranean Salad with tomatoes, cucumbers, and parsley. This is an everyday recipe commonly eaten on the Mediterranean diet. Add feta cheese, [[legumes]], or cooked couscous to turn it into a complete meal.
+A simple and quick Mediterranean Salad with tomatoes, cucumbers, and parsley. This is an everyday recipe commonly eaten on the Mediterranean diet. Add feta cheese, [legumes](../entities/legumes.md), or cooked couscous to turn it into a complete meal.
 
 ## Rating
 ★★★★½ **4.87/5** (29 ratings, 6 reviews) — [View on The Mediterranean Dish](https://www.themediterraneandish.com/best-mediterranean-diet-recipes/)
 
 ## Why This Recipe Fits the Mediterranean Diet
 
-- **[[vegetable]]**-forward — tomatoes and cucumbers as the base
-- [[extra-virgin-olive-oil]] as the fat source
+- **[vegetable](../entities/vegetable.md)**-forward — tomatoes and cucumbers as the base
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md) as the fat source
 - **Sumac** — a Mediterranean spice rich in antioxidants
 - Low in calories (62.5 kcal per serving) — supports weight management
-- Easily adaptable: add [[legumes]] for protein, feta for dairy, or grains for completeness
+- Easily adaptable: add [legumes](../entities/legumes.md) for protein, feta for dairy, or grains for completeness
 
 ## Recipe Notes
 
@@ -70,7 +70,7 @@ A simple and quick Mediterranean Salad with tomatoes, cucumbers, and parsley. Th
 - **With grains**: Add 1 cup cooked couscous or quinoa for a heartier meal
 
 ## Related Pages
-- [[mediterranean-diet]]
-- [[vegetable]]
-- [[extra-virgin-olive-oil]]
-- [[legumes]]
+- [mediterranean-diet](../entities/mediterranean-diet.md)
+- [vegetable](../entities/vegetable.md)
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+- [legumes](../entities/legumes.md)

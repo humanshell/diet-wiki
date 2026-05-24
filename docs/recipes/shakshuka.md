@@ -69,9 +69,9 @@ nutrition_note: Based on 6 servings. Actual values will vary based on exact ingr
 why_this_recipe_fits: |
   Eggs are a cornerstone Mediterranean protein — affordable, versatile, and rich in choline and B12. This dish delivers 15g of protein per serving with no meat required. The tomato-pepper sauce provides lycopene and vitamin C, while olive oil drives the monounsaturated fat profile. One skillet, one meal, under 40 minutes.
 wikilinks:
-  - [[eggs]]
-  - [[extra-virgin-olive-oil]]
-  - [[mediterranean-herbs]]
+  - [eggs](../entities/eggs.md)
+  - [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+  - [mediterranean-herbs](../entities/mediterranean-herbs.md)
 related_recipes:
   - mediterranean-white-bean-soup
   - everyday-mediterranean-salad

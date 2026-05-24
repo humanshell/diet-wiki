@@ -60,9 +60,9 @@ nutrition_note: Based on 4 servings (about 4–5 wings per person). Sodium is do
 why_this_recipe_fits: |
   Chicken is the preferred Mediterranean poultry choice — leaner than red meat and explicitly featured in the Lyon Diet Heart Study as the replacement protein. Wings are an affordable cut with excellent protein density (26g per serving). The lemon pepper profile is Mediterranean-compatible: citrus, black pepper, and herbs. Air frying eliminates the need for deep frying while still delivering crispy skin.
 wikilinks:
-  - [[poultry]]
-  - [[canola-oil]]
-  - [[mediterranean-herbs]]
+  - [poultry](../entities/poultry.md)
+  - [canola-oil](../entities/canola-oil.md)
+  - [mediterranean-herbs](../entities/mediterranean-herbs.md)
 related_recipes:
   - air-fryer-salmon-capers
   - shakshuka

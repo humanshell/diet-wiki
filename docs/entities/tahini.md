@@ -21,7 +21,7 @@ Tahini is energy-dense (approximately 600 kcal per 100g) but nutrient-rich:
 
 - **Unsaturated fat profile**: Replaces saturated fats when used as a spread or condiment instead of butter or cream
 - **Phytosterols**: Sesame seeds contain phytosterols (notably beta-sitosterol), which compete with cholesterol for intestinal absorption and support healthy lipid profiles
-- **Sesamin and sesamolin**: These lignans found in sesame seeds have antioxidant and anti-inflammatory properties, supporting the [[anti-inflammatory-environment]] of the Mediterranean dietary pattern
+- **Sesamin and sesamolin**: These lignans found in sesame seeds have antioxidant and anti-inflammatory properties, supporting the [anti-inflammatory-environment](../concepts/anti-inflammatory-environment.md) of the Mediterranean dietary pattern
 - **Magnesium**: Tahini is an excellent source of magnesium, supporting muscle and nerve function and blood pressure regulation
 
 ## Mediterranean Culinary Context

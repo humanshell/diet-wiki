@@ -6,4 +6,4 @@ type: concept
 tags: ['cardiovascular-risk']
 sources: [raw/articles/Lyon_Diet_Heart_Study_and_ALA.md]
 ---
-An anti-thrombotic environment reduces the likelihood of blood clot formation in the arteries, which is a primary cause of myocardial infarction. The [[lyon-diet-heart-study]] suggests that certain dietary patterns, including the [[mediterranean-diet]], foster this environment.
+An anti-thrombotic environment reduces the likelihood of blood clot formation in the arteries, which is a primary cause of myocardial infarction. The [lyon-diet-heart-study](../entities/lyon-diet-heart-study.md) suggests that certain dietary patterns, including the [mediterranean-diet](../entities/mediterranean-diet.md), foster this environment.

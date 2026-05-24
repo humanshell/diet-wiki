@@ -6,7 +6,7 @@ type: entity
 tags: ['whole-grain', 'fiber', 'plant-based']
 sources: [raw/articles/research-mediterranean-diet-wikipedia.md]
 ---
-Whole grains are cereal grains consumed in their complete form — bran, germ, and endosperm intact — making them a foundational component of the [[mediterranean-diet]]. Common varieties include wheat, barley, oats, bulgur, farro, spelt, and whole-grain pasta and bread.
+Whole grains are cereal grains consumed in their complete form — bran, germ, and endosperm intact — making them a foundational component of the [mediterranean-diet](mediterranean-diet.md). Common varieties include wheat, barley, oats, bulgur, farro, spelt, and whole-grain pasta and bread.
 
 ## Cardiovascular Benefits
 
@@ -24,5 +24,5 @@ The traditional Mediterranean dietary pattern emphasizes unprocessed cereals —
 
 ## Research Highlights
 - A 2016 meta-analysis of 45 studies found that 3 servings of whole grains daily reduced cardiovascular disease risk by 20–30%
-- The [[lyon-diet-heart-study]] emphasized bread as a primary component of the Mediterranean intervention group, consumed daily alongside vegetables, fish, and fruit
-- Whole grains are a key component of the [[anti-inflammatory-environment]] promoted by the Mediterranean dietary pattern
+- The [lyon-diet-heart-study](lyon-diet-heart-study.md) emphasized bread as a primary component of the Mediterranean intervention group, consumed daily alongside vegetables, fish, and fruit
+- Whole grains are a key component of the [anti-inflammatory-environment](../concepts/anti-inflammatory-environment.md) promoted by the Mediterranean dietary pattern

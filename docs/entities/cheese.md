@@ -17,9 +17,9 @@ Cheese provides a combination of protein, calcium, phosphorus, and vitamin B12. 
 The relationship between cheese and cardiovascular health is nuanced:
 
 - **Saturated fat**: Cheese is high in saturated fat (approximately 20–25% of calories in most varieties), which has historically raised concerns for LDL-C elevation. However, emerging evidence suggests the food matrix structure of cheese may attenuate the cholesterol-raising effect compared to equivalent saturated fat from butter or processed meats
-- **Calcium and potassium**: The mineral density of cheese contributes to [[blood-pressure-reduction]] through electrolyte balance
+- **Calcium and potassium**: The mineral density of cheese contributes to [blood-pressure-reduction](../concepts/blood-pressure-reduction.md) through electrolyte balance
 - **Fermentation and probiotics**: Fermented cheeses contain bioactive peptides and may support gut microbiome diversity, which is increasingly recognized in cardiovascular risk
 
 ## Mediterranean Role
 
-In the [[mediterranean-diet]], cheese is consumed in moderate amounts — typically a few times per week rather than daily — and paired with vegetables, whole grains, and [[extra-virgin-olive-oil]]. The traditional Greek diet ( Crete, 1960s) included cheese primarily as feta in salads, yogurt as a breakfast staple, and small amounts of hard cheese as a seasoning.
+In the [mediterranean-diet](mediterranean-diet.md), cheese is consumed in moderate amounts — typically a few times per week rather than daily — and paired with vegetables, whole grains, and [extra-virgin-olive-oil](extra-virgin-olive-oil.md). The traditional Greek diet ( Crete, 1960s) included cheese primarily as feta in salads, yogurt as a breakfast staple, and small amounts of hard cheese as a seasoning.

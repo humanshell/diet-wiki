@@ -8,25 +8,25 @@
 
 | Recipe | Rating | Source | Cuisine | Time | Servings |
 |---|---|---|---|---|---|
-| [[shakshuka\|Shakshuka (Poached Eggs in Tomato Pepper Sauce)]] | ★★★★★ 4.98 (215) | The Mediterranean Dish | Mediterranean/Middle Eastern | 10m+30m | 2–6 |
-| [[greek-green-beans-fasolakia\|Greek Green Beans (Fasolakia Lathera)]] | ★★★★★ 5.00 (73) | Olive Tomato | Greek | 15m+45m | 2–4 |
-| [[mediterranean-white-bean-soup\|White Bean Soup]] | ★★★★½ 4.93 (103) | The Mediterranean Dish | Italian | 10m+35m | 4 |
+| [Shakshuka (Poached Eggs in Tomato Pepper Sauce)](shakshuka.md) | ★★★★★ 4.98 (215) | The Mediterranean Dish | Mediterranean/Middle Eastern | 10m+30m | 2–6 |
+| [Greek Green Beans (Fasolakia Lathera)](greek-green-beans-fasolakia.md) | ★★★★★ 5.00 (73) | Olive Tomato | Greek | 15m+45m | 2–4 |
+| [White Bean Soup](mediterranean-white-bean-soup.md) | ★★★★½ 4.93 (103) | The Mediterranean Dish | Italian | 10m+35m | 4 |
 
 ### Air Fryer
 
 | Recipe | Rating | Source | Cuisine | Time | Servings |
 |---|---|---|---|---|---|
-| [[air-fryer-salmon-capers\|Air Fryer Salmon with Capers]] | ★★★★★ 5.00 (135) | Downshiftology | Mediterranean | 5m+15m | 2–4 |
-| [[air-fryer-falafel-tahini\|Air Fryer Falafel with Tahini Sauce]] | ★★★★★ 4.94 (508) | Downshiftology | Middle Eastern | 60m+15m | 3 (18 pcs) |
-| [[air-fryer-chicken-wings-lemon-pepper\|Air Fryer Chicken Wings (Lemon Pepper)]] | ★★★★★ 5.00 (26) | Downshiftology | Mediterranean-inspired | 10m+20m | 2–4 |
+| [Air Fryer Salmon with Capers](air-fryer-salmon-capers.md) | ★★★★★ 5.00 (135) | Downshiftology | Mediterranean | 5m+15m | 2–4 |
+| [Air Fryer Falafel with Tahini Sauce](air-fryer-falafel-tahini.md) | ★★★★★ 4.94 (508) | Downshiftology | Middle Eastern | 60m+15m | 3 (18 pcs) |
+| [Air Fryer Chicken Wings (Lemon Pepper)](air-fryer-chicken-wings-lemon-pepper.md) | ★★★★★ 5.00 (26) | Downshiftology | Mediterranean-inspired | 10m+20m | 2–4 |
 
 ### Previously Added
 
 | Recipe | Rating | Source | Cuisine | Time | Servings |
 |---|---|---|---|---|---|
-| [[everyday-mediterranean-salad\|Everyday Mediterranean Salad]] | ★★★★½ 4.87 (29) | The Mediterranean Dish | Mediterranean | 10m | 6 |
-| [[greek-chicken-salad\|Greek Chicken Salad]] | ★★★★★ 5.00 (20) | Downshiftology | Greek | 10m+25m | 4 |
-| [[baba-ganoush\|Baba Ganoush]] | ★★★★★ 4.96 (42) | Downshiftology | Mediterranean | 5m+30m | 4 |
+| [Everyday Mediterranean Salad](everyday-mediterranean-salad.md) | ★★★★½ 4.87 (29) | The Mediterranean Dish | Mediterranean | 10m | 6 |
+| [Greek Chicken Salad](greek-chicken-salad.md) | ★★★★★ 5.00 (20) | Downshiftology | Greek | 10m+25m | 4 |
+| [Baba Ganoush](baba-ganoush.md) | ★★★★★ 4.96 (42) | Downshiftology | Mediterranean | 5m+30m | 4 |
 
 ## Recipe Selection Criteria
 
@@ -34,8 +34,8 @@
 - Source must be an established Mediterranean diet authority (RD-authored, cookbook author, or peer-validated)
 - Must include full nutritional data and prep/cook times
 - Recipes must align with core Mediterranean diet principles:
-  - [[extra-virgin-olive-oil]] as primary fat
-  - [[legumes]] and [[vegetable]] emphasis
+  - [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md) as primary fat
+  - [legumes](../entities/legumes.md) and [vegetable](../entities/vegetable.md) emphasis
   - Minimal processed ingredients
   - Lean proteins and fish encouraged
 
@@ -53,12 +53,12 @@ Each recipe page links back to its original source. Ingredient lists and instruc
 
 ## Related Pages
 
-- [[mediterranean-diet]]
-- [[extra-virgin-olive-oil]]
-- [[vegetable]]
-- [[legumes]]
-- [[fish]]
-- [[poultry]]
-- [[eggs]]
-- [[tahini]]
-- [[mediterranean-herbs]]
+- [mediterranean-diet](../entities/mediterranean-diet.md)
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+- [vegetable](../entities/vegetable.md)
+- [legumes](../entities/legumes.md)
+- [fish](../entities/fish.md)
+- [poultry](../entities/poultry.md)
+- [eggs](../entities/eggs.md)
+- [tahini](../entities/tahini.md)
+- [mediterranean-herbs](../entities/mediterranean-herbs.md)

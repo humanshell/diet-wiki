@@ -75,9 +75,9 @@ nutrition_note: Based on 3 servings of 6 falafel each. Nutrition includes falafe
 why_this_recipe_fits: |
   Chickpeas (legumes) are a foundational food in the Mediterranean pattern — featured in CORDIOPREV and every traditional Mediterranean diet. Falafel delivers 13g of protein and 9g of fiber per serving, making it one of the most filling plant-based options available. The air fryer produces the same crispy result as deep frying with a fraction of the oil (1–2 teaspoons vs. a full pot of oil). Tahini adds phytosterols and sesamin/sesamolin lignans that support cardiovascular health.
 wikilinks:
-  - [[legumes]]
-  - [[tahini]]
-  - [[mediterranean-herbs]]
+  - [legumes](../entities/legumes.md)
+  - [tahini](../entities/tahini.md)
+  - [mediterranean-herbs](../entities/mediterranean-herbs.md)
 related_recipes:
   - everyday-mediterranean-salad
   - air-fryer-salmon-capers

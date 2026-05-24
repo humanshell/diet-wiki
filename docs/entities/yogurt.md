@@ -16,10 +16,10 @@ Yogurt provides high-quality protein, calcium, potassium, and B vitamins. Greek 
 
 The fermented nature of yogurt provides benefits beyond its basic nutritional content:
 
-- **Probiotic effects**: Yogurt contains live cultures that support gut microbiome diversity. A healthy gut microbiome is associated with reduced [[systemic-inflammation]] and improved lipid profiles
+- **Probiotic effects**: Yogurt contains live cultures that support gut microbiome diversity. A healthy gut microbiome is associated with reduced [systemic-inflammation](../concepts/systemic-inflammation.md) and improved lipid profiles
 - **Blood pressure reduction**: The combination of potassium, calcium, and probiotic peptides in yogurt has been associated with modest reductions in systolic blood pressure
 - **Glycemic control**: Yogurt consumption is associated with improved insulin sensitivity and lower postprandial glucose, supporting weight management
-- **Calcium and [[blood-pressure-reduction]]**: Like cheese, yogurt provides calcium and potassium in a format that supports electrolyte balance and vascular health
+- **Calcium and [blood-pressure-reduction](../concepts/blood-pressure-reduction.md)**: Like cheese, yogurt provides calcium and potassium in a format that supports electrolyte balance and vascular health
 
 ## Mediterranean Context
 

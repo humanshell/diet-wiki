@@ -53,9 +53,9 @@ A deliciously creamy and smoky roasted eggplant dip. The signature flavor comes 
 
 ## Why This Recipe Fits the Mediterranean Diet
 
-- **[[vegetable]]**-based appetizer ([[eggplant]]) — fiber-rich and low calorie
-- [[tahini]] (sesame paste) provides plant-based protein and healthy fats
-- [[extra-virgin-olive-oil]] as the fat source — Mediterranean cornerstone
+- **[vegetable](../entities/vegetable.md)**-based appetizer ([eggplant](../entities/eggplant.md)) — fiber-rich and low calorie
+- [tahini](../entities/tahini.md) (sesame paste) provides plant-based protein and healthy fats
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md) as the fat source — Mediterranean cornerstone
 - **Vegan and gluten-free** — suitable for broad dietary needs
 - High in fiber (7g per serving) — supports digestive and cardiovascular health
 - Charred skin contains antioxidants — don't peel it off
@@ -75,9 +75,9 @@ A deliciously creamy and smoky roasted eggplant dip. The signature flavor comes 
 - **Sandwich spread**: Alternative to mayonnaise on Mediterranean sandwiches
 
 ## Related Pages
-- [[mediterranean-diet]]
-- [[vegetable]]
-- [[eggplant]]
-- [[extra-virgin-olive-oil]]
-- [[tahini]]
-- [[legumes]]
+- [mediterranean-diet](../entities/mediterranean-diet.md)
+- [vegetable](../entities/vegetable.md)
+- [eggplant](../entities/eggplant.md)
+- [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md)
+- [tahini](../entities/tahini.md)
+- [legumes](../entities/legumes.md)

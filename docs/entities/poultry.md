@@ -19,7 +19,7 @@ Poultry is lower in saturated fat than red meat and provides:
 
 ## Mediterranean Role
 
-The [[mediterranean-diet]] pattern emphasizes poultry as a preferred alternative to red meat. The [[lyon-diet-heart-study]] explicitly replaced red meat with poultry in the intervention group, limiting beef, pork, and lamb while increasing fish and chicken intake.
+The [mediterranean-diet](mediterranean-diet.md) pattern emphasizes poultry as a preferred alternative to red meat. The [lyon-diet-heart-study](lyon-diet-heart-study.md) explicitly replaced red meat with poultry in the intervention group, limiting beef, pork, and lamb while increasing fish and chicken intake.
 
 Poultry is prepared in Mediterranean cuisine in several characteristic ways:
 
@@ -29,4 +29,4 @@ Poultry is prepared in Mediterranean cuisine in several characteristic ways:
 
 ## Cardiovascular Considerations
 
-Swapping poultry for red meat in the Mediterranean pattern contributes to lower saturated fat intake and supports the lipid profile goals of [[secondary-cardiovascular-prevention]]. However, processed poultry (e.g., breaded chicken nuggets, deli turkey slices) is not equivalent to whole cuts — processed forms introduce sodium and added fats that undermine the cardiovascular benefit.
+Swapping poultry for red meat in the Mediterranean pattern contributes to lower saturated fat intake and supports the lipid profile goals of [secondary-cardiovascular-prevention](../concepts/secondary-cardiovascular-prevention.md). However, processed poultry (e.g., breaded chicken nuggets, deli turkey slices) is not equivalent to whole cuts — processed forms introduce sodium and added fats that undermine the cardiovascular benefit.

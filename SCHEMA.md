@@ -1,7 +1,7 @@
 ---
 name: llm-wiki
 description: "Heart healthy diet and nutrition for post heart attack recovery"
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Wiki Schema
@@ -12,7 +12,7 @@ Heart healthy diet and nutrition for post heart attack recovery.
 ## Conventions
 - File names: lowercase, hyphens, no spaces (e.g., `mediterranean-diet.md`)
 - Every wiki page starts with YAML frontmatter
-- Use `[[wikilinks]]` to link between pages
+- Use standard Markdown link syntax `[text](path/file.md)` to link between pages
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`

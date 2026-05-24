@@ -95,3 +95,28 @@
 - Recipe 5: [greek-green-beans-fasolakia](greek-green-beans-fasolakia.md) — Greek Green Beans (Fasolakia Lathera) ★5.0, 73 ratings, Olive Tomato — stovetop, 60 min
 - All ratings verified from Schema.org JSON-LD aggregateRating data
 - Updated recipes/README.md with new sections organized by cooking method (Stove Top, Air Fryer)
+
+## [2026-05-23] infrastructure | GitHub Actions CI/CD pipeline fix
+- Error: `mkdocs: command not found` (exit code 127) — MkDocs not installed in runner
+- Fix: `.github/workflows/deploy.yml` — added `pip install mkdocs` before `mkdocs gh-deploy`
+- Added `GITHUB_TOKEN` env var to `mkdocs gh-deploy` step for `gh-pages` branch authentication
+- Note: MkDocs gh-deploy uses the token automatically; no manual secret needed
+
+## [2026-05-23] config | Rebuilt mkdocs.yml navigation structure
+- Rebuilt nav section with full section index pages: Concepts (15 pages), Entities (34 pages, 4 sub-groups), Recipes (11 pages), Comparisons (4 pages)
+- Added `docs/concepts/index.md` and `docs/comparisons/index.md` section landing pages
+- `recipes/README.md` already existed; `recipes/` section index uses it as-is
+- Restored `Home: index.md` and `Log: log.md` top-level nav entries
+
+## [2026-05-23] lint | Converted 391 wikilinks to standard Markdown across 58 files
+- Replaced all `[[target]]`, `[[target|display]]`, and `[[path\\|display]]` (escaped pipe) patterns
+- Cross-section links resolved with correct relative paths (e.g., entities → concepts = `../concepts/`)
+- Same-section links use bare relative filenames
+- Updated SCHEMA.md convention: `[[wikilinks]]` → standard Markdown link syntax
+- SCHEMA.md version bumped 1.0.0 → 1.1.0
+
+## [2026-05-23] theme | Switched from readthedocs to MkDocs Material
+- `mkdocs.yml`: `name: readthedocs` → `name: material`
+- Replaced `color_mode/user_color_mode_toggle` with Material `palette` (OS-preference-aware light/dark with sun/moon toggle)
+- Added Material features: `navigation.collapse`, `navigation.instant`, `navigation.sections`, `search.highlight`, `content.code.copy`
+- `.github/workflows/deploy.yml`: `pip install mkdocs` → `pip install mkdocs-material`

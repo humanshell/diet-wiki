@@ -12,8 +12,83 @@ docs_dir: docs
 
 # The Navigation structure is the backbone of your website's sidebar
 nav:
-  - Index: index.md
+  - Home: index.md
   - Log: log.md
+  - Concepts:
+    - Concepts: concepts/index.md
+    - Anti-Inflammatory Environment: concepts/anti-inflammatory-environment.md
+    - Anti-Thrombotic Environment: concepts/anti-thrombotic-environment.md
+    - Blood Pressure Reduction: concepts/blood-pressure-reduction.md
+    - Chronic Kidney Disease: concepts/chronic-kidney-disease.md
+    - Dyslipidemia Management: concepts/dyslipidemia-management.md
+    - Hypertension: concepts/hypertension.md
+    - Lifestyle Modification: concepts/lifestyle-modification.md
+    - Lipid-Lowering Therapy: concepts/lipid-lowering-therapy.md
+    - Major Adverse Cardiovascular Events: concepts/major-adverse-cardiovascular-events.md
+    - Plaque Regression: concepts/plaque-regression.md
+    - Residual Risk Assessment: concepts/residual-risk-assessment.md
+    - Risk Stratification: concepts/risk-stratification.md
+    - Secondary Cardiovascular Prevention: concepts/secondary-cardiovascular-prevention.md
+    - Sodium Reduction: concepts/sodium-reduction.md
+    - Systemic Inflammation: concepts/systemic-inflammation.md
+  - Entities:
+    - Diet Patterns:
+      - Mediterranean Diet: entities/mediterranean-diet.md
+      - Very Low-Fat Vegetarian Diet: entities/very-low-fat-vegetarian-diet.md
+    - Foods:
+      - Extra-Virgin Olive Oil: entities/extra-virgin-olive-oil.md
+      - Canola Oil: entities/canola-oil.md
+      - Tree Nuts: entities/tree-nuts.md
+      - Nuts: entities/nuts.md
+      - Fish: entities/fish.md
+      - Poultry: entities/poultry.md
+      - Red Meat: entities/red-meat.md
+      - Eggs: entities/eggs.md
+      - Legumes: entities/legumes.md
+      - Yogurt: entities/yogurt.md
+      - Cheese: entities/cheese.md
+      - Tahini: entities/tahini.md
+      - Eggplant: entities/eggplant.md
+      - Vegetables: entities/vegetable.md
+      - Fruit: entities/fruit.md
+      - Whole Grains: entities/whole-grains.md
+      - Mediterranean Herbs: entities/mediterranean-herbs.md
+      - Wine: entities/wine.md
+    - Nutrients & Biomarkers:
+      - Sodium: entities/sodium.md
+      - Potassium: entities/potassium.md
+      - Magnesium: entities/magnesium.md
+      - Calcium: entities/calcium.md
+      - Omega-3 Fatty Acids: entities/omega-3-fatty-acids.md
+      - Alpha-Linolenic Acid: entities/alpha-linolenic-acid.md
+    - Lipids & Biomarkers:
+      - Apolipoprotein B: entities/apolipoprotein-b.md
+      - Lipoprotein(a): entities/lipoprotein-a.md
+    - Clinical Evidence:
+      - 2026 ACC/AHA Dyslipidemia Guidelines: entities/2026-acc-aha-dyslipidemia-guidelines.md
+      - Statin Therapy: entities/statin-therapy.md
+      - Atherosclerotic Cardiovascular Disease: entities/atherosclerotic-cardiovascular-disease.md
+      - CORDIOPREV Trial: entities/cordioprev-trial.md
+      - Lyon Diet Heart Study: entities/lyon-diet-heart-study.md
+      - Ornish Lifestyle Heart Trial: entities/ornish-lifestyle-heart-trial.md
+  - Recipes:
+    - Recipes: recipes/README.md
+    - Air-Fryer Chicken Wings (Lemon Pepper): recipes/air-fryer-chicken-wings-lemon-pepper.md
+    - Air-Fryer Falafel with Tahini: recipes/air-fryer-falafel-tahini.md
+    - Air-Fryer Salmon with Capers: recipes/air-fryer-salmon-capers.md
+    - Baba Ganoush: recipes/baba-ganoush.md
+    - Everyday Mediterranean Salad: recipes/everyday-mediterranean-salad.md
+    - Fasolakia (Greek Green Beans): recipes/greek-green-beans-fasolakia.md
+    - Fasolakia Lathera: recipes/fasolakia-lathera.md
+    - Greek Chicken Salad: recipes/greek-chicken-salad.md
+    - Mediterranean White Bean Soup: recipes/mediterranean-white-bean-soup.md
+    - Shakshuka: recipes/shakshuka.md
+  - Comparisons:
+    - Comparisons: comparisons/index.md
+    - LDL-C Calculation Formulas: comparisons/ldl-c-calculation-formulas.md
+    - Lifestyle Intervention vs. Usual Care: comparisons/lifestyle-intervention-vs-usual-care.md
+    - Mediterranean vs. Low-Fat Diet: comparisons/mediterranean-vs-low-fat-diet.md
+    - Mediterranean vs. Western Diet: comparisons/mediterranean-vs-western-diet.md
 
 # This enables everything you need for a professional look
 plugins:

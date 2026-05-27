@@ -20,13 +20,19 @@
 | [Air Fryer Falafel with Tahini Sauce](air-fryer-falafel-tahini.md) | ★★★★★ 4.94 (508) | Downshiftology | Middle Eastern | 60m+15m | 3 (18 pcs) |
 | [Air Fryer Chicken Wings (Lemon Pepper)](air-fryer-chicken-wings-lemon-pepper.md) | ★★★★★ 5.00 (26) | Downshiftology | Mediterranean-inspired | 10m+20m | 2–4 |
 
+### Smoothies & Meal Replacements
+
+| Recipe | Type | Time | Servings |
+|---|---|---|---|
+| [Brunch Power Shake](brunch-power-shake.md) | Performance & Longevity Formula | 5m | 1 |
+
 ### Previously Added
 
 | Recipe | Rating | Source | Cuisine | Time | Servings |
 |---|---|---|---|---|---|
 | [Everyday Mediterranean Salad](everyday-mediterranean-salad.md) | ★★★★½ 4.87 (29) | The Mediterranean Dish | Mediterranean | 10m | 6 |
 | [Greek Chicken Salad](greek-chicken-salad.md) | ★★★★★ 5.00 (20) | Downshiftology | Greek | 10m+25m | 4 |
-| [Baba Ganoush](baba-ganoush.md) | ★★★★★ 4.96 (42) | Downshiftology | Mediterranean | 5m+30m | 4 |
+| [Baba Ganoush](baba-ganoush.md) | ★★★★★ 4.96 (42) | Downshiftology | Mediterranean | 5m+30m | 2–4 |
 
 ## Recipe Selection Criteria
 
@@ -39,6 +45,8 @@
   - Minimal processed ingredients
   - Lean proteins and fish encouraged
 
+> **Note:** The [Brunch Power Shake](brunch-power-shake.md) is a personal performance formula, not an externally sourced recipe. It is included for its alignment with the wiki's cardiovascular health principles — [extra-virgin-olive-oil](../entities/extra-virgin-olive-oil.md), [omega-3 fatty acids](../entities/omega-3-fatty-acids.md) from chia and hemp, [fruit](../entities/fruit.md) antioxidants, and [yogurt](../entities/yogurt.md) — and does not follow the aggregate rating criteria above.
+
 ## Cooking Methods at a Glance
 
 | Method | Best For | Recipes |
@@ -46,6 +54,7 @@
 | **Stove Top** | One-pot dinners, soups, stews, eggs | Shakshuka, Greek Green Beans, White Bean Soup |
 | **Air Fryer** | Fish, poultry, legume dishes — crispy without deep frying | Salmon with Capers, Falafel, Chicken Wings |
 | **Rice Cooker** | See stove-top alternatives (these translate well) | — |
+| **Blender** | Smoothies, meal replacements, performance shakes | Brunch Power Shake |
 
 ## Source Notes
 
@@ -62,3 +71,5 @@ Each recipe page links back to its original source. Ingredient lists and instruc
 - [eggs](../entities/eggs.md)
 - [tahini](../entities/tahini.md)
 - [mediterranean-herbs](../entities/mediterranean-herbs.md)
+- [omega-3-fatty-acids](../entities/omega-3-fatty-acids.md)
+- [yogurt](../entities/yogurt.md)

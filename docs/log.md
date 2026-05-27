@@ -120,3 +120,10 @@
 - Replaced `color_mode/user_color_mode_toggle` with Material `palette` (OS-preference-aware light/dark with sun/moon toggle)
 - Added Material features: `navigation.collapse`, `navigation.instant`, `navigation.sections`, `search.highlight`, `content.code.copy`
 - `.github/workflows/deploy.yml`: `pip install mkdocs` → `pip install mkdocs-material`
+
+## [2026-05-27] create | Brunch Power Shake recipe added
+- Created: [docs/recipes/brunch-power-shake.md](recipes/brunch-power-shake.md) — personal performance & longevity formula with EVOO, omega-3s (chia, hemp), creatine, collagen, whey, and berries
+- Updated: `docs/recipes/README.md` — added "Smoothies & Meal Replacements" section, blender method to cooking methods table
+- Updated: `docs/index.md` — added shake to recipe table, bumped page count (50 → 51), updated recipe count
+- Updated: `mkdocs.yml` — added "Brunch Power Shake" to Recipes nav
+- Updated: [docs/entities/alpha-linolenic-acid.md](entities/alpha-linolenic-acid.md) — added chia seeds and hemp hearts as dietary ALA sources

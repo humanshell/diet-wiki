@@ -1,7 +1,7 @@
 # Heart-Healthy Mediterranean Diet Wiki
 
 > A curated knowledge base on Mediterranean diet nutrition for post-heart-attack recovery and secondary cardiovascular prevention.
-> Last updated: 2026-05-18 · 50 pages
+> Last updated: 2026-05-27 · 51 pages
 
 ---
 
@@ -70,7 +70,7 @@ Understanding the biological mechanisms that drive Mediterranean diet benefits:
 
 ## Recipes
 
-Five curated Mediterranean diet recipes, each verified with ≥20 aggregate user ratings:
+Nine curated Mediterranean diet recipes, each verified with ≥20 aggregate user ratings, plus one performance formula:
 
 | Recipe | Rating | Cuisine | Time |
 |---|---|---|---|
@@ -83,6 +83,7 @@ Five curated Mediterranean diet recipes, each verified with ≥20 aggregate user
 | [Air Fryer Salmon with Capers](recipes/air-fryer-salmon-capers.md) | ★★★★★ 5.0 · 135 reviews | Mediterranean | 20 min |
 | [Air Fryer Falafel with Tahini Sauce](recipes/air-fryer-falafel-tahini.md) | ★★★★★ 4.94 · 508 reviews | Middle Eastern | 75 min* |
 | [Air Fryer Chicken Wings (Lemon Pepper)](recipes/air-fryer-chicken-wings-lemon-pepper.md) | ★★★★★ 5.0 · 26 reviews | Mediterranean-inspired | 30 min |
+| [**Brunch Power Shake**](recipes/brunch-power-shake.md) | — Personal performance formula | — | 5 min |
 
 → See [the full recipe index](recipes/README.md) with selection criteria and culinary categories
 
@@ -99,8 +100,8 @@ Five curated Mediterranean diet recipes, each verified with ≥20 aggregate user
 ### Comparisons (4 entries)
 [ldl-c-calculation-formulas](comparisons/ldl-c-calculation-formulas.md) · [lifestyle-intervention-vs-usual-care](comparisons/lifestyle-intervention-vs-usual-care.md) · [mediterranean-vs-low-fat-diet](comparisons/mediterranean-vs-low-fat-diet.md) · [mediterranean-vs-western-diet](comparisons/mediterranean-vs-western-diet.md)
 
-### Recipes (10 entries)
-[recipes/README](recipes/README.md) · [recipes/baba-ganoush](recipes/baba-ganoush.md) · [recipes/everyday-mediterranean-salad](recipes/everyday-mediterranean-salad.md) · [recipes/greek-green-beans-fasolakia](recipes/greek-green-beans-fasolakia.md) · [recipes/greek-chicken-salad](recipes/greek-chicken-salad.md) · [recipes/mediterranean-white-bean-soup](recipes/mediterranean-white-bean-soup.md) · [recipes/shakshuka](recipes/shakshuka.md) · [recipes/air-fryer-salmon-capers](recipes/air-fryer-salmon-capers.md) · [recipes/air-fryer-falafel-tahini](recipes/air-fryer-falafel-tahini.md) · [recipes/air-fryer-chicken-wings-lemon-pepper](recipes/air-fryer-chicken-wings-lemon-pepper.md)
+### Recipes (11 entries)
+[recipes/README](recipes/README.md) · [recipes/baba-ganoush](recipes/baba-ganoush.md) · [recipes/brunch-power-shake](recipes/brunch-power-shake.md) · [recipes/everyday-mediterranean-salad](recipes/everyday-mediterranean-salad.md) · [recipes/greek-green-beans-fasolakia](recipes/greek-green-beans-fasolakia.md) · [recipes/greek-chicken-salad](recipes/greek-chicken-salad.md) · [recipes/mediterranean-white-bean-soup](recipes/mediterranean-white-bean-soup.md) · [recipes/shakshuka](recipes/shakshuka.md) · [recipes/air-fryer-salmon-capers](recipes/air-fryer-salmon-capers.md) · [recipes/air-fryer-falafel-tahini](recipes/air-fryer-falafel-tahini.md) · [recipes/air-fryer-chicken-wings-lemon-pepper](recipes/air-fryer-chicken-wings-lemon-pepper.md)
 
 ---
 

@@ -1,7 +1,7 @@
 # Heart-Healthy Mediterranean Diet Wiki
 
 > A curated knowledge base on Mediterranean diet nutrition for post-heart-attack recovery and secondary cardiovascular prevention.
-> Last updated: 2026-06-09 · 52 pages
+> Last updated: 2026-06-09 · 53 pages
 
 ---
 
@@ -55,6 +55,8 @@ Understanding the biological mechanisms that drive Mediterranean diet benefits:
 - **[dyslipidemia-management](concepts/dyslipidemia-management.md)** — Mediterranean pattern improves the lipid profile: lowers triglycerides, raises HDL-C, and reduces atherogenic lipoprotein particles
 - **[plaque-regression](concepts/plaque-regression.md)** — Evidence from Ornish trial shows intensive lifestyle change can reduce non-calcified plaque volume
 
+**Physical Activity:** Exercise is a core pillar of [secondary-cardiovascular-prevention](concepts/secondary-cardiovascular-prevention.md). **[Calisthenics](entities/calisthenics.md)** — bodyweight resistance training — is particularly suitable for post-MI patients, offering simultaneous improvements in blood pressure, lipid profile, insulin sensitivity, and VO₂max without requiring gym equipment.
+
 ---
 
 ## Supporting Nutrients and Biomarkers
@@ -91,8 +93,8 @@ Nine curated Mediterranean diet recipes, each verified with ≥20 aggregate user
 
 ## All Pages
 
-### Entities (34 entries)
-[2026-acc-aha-dyslipidemia-guidelines](entities/2026-acc-aha-dyslipidemia-guidelines.md) · [alpha-linolenic-acid](entities/alpha-linolenic-acid.md) · [apolipoprotein-b](entities/apolipoprotein-b.md) · [atherosclerotic-cardiovascular-disease](entities/atherosclerotic-cardiovascular-disease.md) · [calcium](entities/calcium.md) · [canola-oil](entities/canola-oil.md) · [cheese](entities/cheese.md) · [cordioprev-trial](entities/cordioprev-trial.md) · [eggplant](entities/eggplant.md) · [eggs](entities/eggs.md) · [extra-virgin-olive-oil](entities/extra-virgin-olive-oil.md) · [fish](entities/fish.md) · [fruit](entities/fruit.md) · [legumes](entities/legumes.md) · [lipoprotein-a](entities/lipoprotein-a.md) · [lyon-diet-heart-study](entities/lyon-diet-heart-study.md) · [magnesium](entities/magnesium.md) · [mediterranean-diet](entities/mediterranean-diet.md) · [mediterranean-herbs](entities/mediterranean-herbs.md) · [nuts](entities/nuts.md) · [omega-3-fatty-acids](entities/omega-3-fatty-acids.md) · [ornish-lifestyle-heart-trial](entities/ornish-lifestyle-heart-trial.md) · [potassium](entities/potassium.md) · [poultry](entities/poultry.md) · [red-meat](entities/red-meat.md) · [sodium](entities/sodium.md) · [sourdough-bread](entities/sourdough-bread.md) · [statin-therapy](entities/statin-therapy.md) · [tahini](entities/tahini.md) · [tree-nuts](entities/tree-nuts.md) · [vegetable](entities/vegetable.md) · [very-low-fat-vegetarian-diet](entities/very-low-fat-vegetarian-diet.md) · [whole-grains](entities/whole-grains.md) · [wine](entities/wine.md) · [yogurt](entities/yogurt.md)
+### Entities (35 entries)
+[2026-acc-aha-dyslipidemia-guidelines](entities/2026-acc-aha-dyslipidemia-guidelines.md) · [alpha-linolenic-acid](entities/alpha-linolenic-acid.md) · [apolipoprotein-b](entities/apolipoprotein-b.md) · [atherosclerotic-cardiovascular-disease](entities/atherosclerotic-cardiovascular-disease.md) · [calcium](entities/calcium.md) · [calisthenics](entities/calisthenics.md) · [canola-oil](entities/canola-oil.md) · [cheese](entities/cheese.md) · [cordioprev-trial](entities/cordioprev-trial.md) · [eggplant](entities/eggplant.md) · [eggs](entities/eggs.md) · [extra-virgin-olive-oil](entities/extra-virgin-olive-oil.md) · [fish](entities/fish.md) · [fruit](entities/fruit.md) · [legumes](entities/legumes.md) · [lipoprotein-a](entities/lipoprotein-a.md) · [lyon-diet-heart-study](entities/lyon-diet-heart-study.md) · [magnesium](entities/magnesium.md) · [mediterranean-diet](entities/mediterranean-diet.md) · [mediterranean-herbs](entities/mediterranean-herbs.md) · [nuts](entities/nuts.md) · [omega-3-fatty-acids](entities/omega-3-fatty-acids.md) · [ornish-lifestyle-heart-trial](entities/ornish-lifestyle-heart-trial.md) · [potassium](entities/potassium.md) · [poultry](entities/poultry.md) · [red-meat](entities/red-meat.md) · [sodium](entities/sodium.md) · [sourdough-bread](entities/sourdough-bread.md) · [statin-therapy](entities/statin-therapy.md) · [tahini](entities/tahini.md) · [tree-nuts](entities/tree-nuts.md) · [vegetable](entities/vegetable.md) · [very-low-fat-vegetarian-diet](entities/very-low-fat-vegetarian-diet.md) · [whole-grains](entities/whole-grains.md) · [wine](entities/wine.md) · [yogurt](entities/yogurt.md)
 
 ### Concepts (15 entries)
 [anti-inflammatory-environment](concepts/anti-inflammatory-environment.md) · [anti-thrombotic-environment](concepts/anti-thrombotic-environment.md) · [blood-pressure-reduction](concepts/blood-pressure-reduction.md) · [chronic-kidney-disease](concepts/chronic-kidney-disease.md) · [dyslipidemia-management](concepts/dyslipidemia-management.md) · [hypertension](concepts/hypertension.md) · [lifestyle-modification](concepts/lifestyle-modification.md) · [lipid-lowering-therapy](concepts/lipid-lowering-therapy.md) · [major-adverse-cardiovascular-events](concepts/major-adverse-cardiovascular-events.md) · [plaque-regression](concepts/plaque-regression.md) · [residual-risk-assessment](concepts/residual-risk-assessment.md) · [risk-stratification](concepts/risk-stratification.md) · [secondary-cardiovascular-prevention](concepts/secondary-cardiovascular-prevention.md) · [sodium-reduction](concepts/sodium-reduction.md) · [systemic-inflammation](concepts/systemic-inflammation.md)

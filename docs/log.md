@@ -134,3 +134,9 @@
 - Updated: [docs/entities/whole-grains.md](entities/whole-grains.md) — added sourdough-bread link reference
 - Updated: `mkdocs.yml` — added Sourdough Bread to Foods nav
 - Updated: `docs/index.md` — added to entities list, bumped page count (51 → 52)
+
+## [2026-06-09] create | Added calisthenics exercise entity
+- Created: [docs/entities/calisthenics.md](entities/calisthenics.md) — comprehensive calisthenics / bodyweight resistance training entity covering cardiovascular benefits (BP reduction, lipid profile, glycemic control, VO₂max, HRV, inflammation), cardiac rehabilitation guidelines, progressive exercise tables, and synergy with Mediterranean diet
+- Expanded: [docs/concepts/lifestyle-modification.md](concepts/lifestyle-modification.md) — added dedicated Diet, Exercise (with calisthenics cross-link), and Stress Management sections; previously a thin stub
+- Updated: `mkdocs.yml` — added Exercise & Lifestyle nav subsection with Calisthenics
+- Updated: `docs/index.md` — added Physical Activity section to Core Concepts, entities list (34→35), page count (52→53)

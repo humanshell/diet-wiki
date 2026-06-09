@@ -6,7 +6,7 @@ type: entity
 tags: ['whole-grain', 'fiber', 'plant-based']
 sources: [raw/articles/research-mediterranean-diet-wikipedia.md]
 ---
-Whole grains are cereal grains consumed in their complete form — bran, germ, and endosperm intact — making them a foundational component of the [mediterranean-diet](mediterranean-diet.md). Common varieties include wheat, barley, oats, bulgur, farro, spelt, and whole-grain pasta and bread.
+Whole grains are cereal grains consumed in their complete form — bran, germ, and endosperm intact — making them a foundational component of the [mediterranean-diet](mediterranean-diet.md). Common varieties include wheat, barley, oats, bulgur, farro, spelt, and whole-grain pasta and bread. Naturally leavened [sourdough-bread](sourdough-bread.md) — made through wild yeast and lactic acid fermentation — offers additional cardiovascular benefits beyond standard whole-grain bread, including a lower glycemic index and improved mineral bioavailability.
 
 ## Cardiovascular Benefits
 

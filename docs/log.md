@@ -127,3 +127,10 @@
 - Updated: `docs/index.md` — added shake to recipe table, bumped page count (50 → 51), updated recipe count
 - Updated: `mkdocs.yml` — added "Brunch Power Shake" to Recipes nav
 - Updated: [docs/entities/alpha-linolenic-acid.md](entities/alpha-linolenic-acid.md) — added chia seeds and hemp hearts as dietary ALA sources
+
+## [2026-06-09] create | Added sourdough-bread entity page
+- Created: [docs/entities/sourdough-bread.md](entities/sourdough-bread.md) — comprehensive entity on sourdough bread's cardiovascular benefits including lower glycemic index, improved mineral bioavailability through phytate reduction, prebiotic SCFA production (butyrate, acetate), enhanced antioxidant activity, and partial gluten degradation
+- Sources: Healthline, Cleveland Clinic, WebMD, PMC, Da Ros et al. human trial (2024), Springer (2025)
+- Updated: [docs/entities/whole-grains.md](entities/whole-grains.md) — added sourdough-bread link reference
+- Updated: `mkdocs.yml` — added Sourdough Bread to Foods nav
+- Updated: `docs/index.md` — added to entities list, bumped page count (51 → 52)

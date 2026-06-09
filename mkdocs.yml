@@ -65,6 +65,7 @@ nav:
       - Vegetables: entities/vegetable.md
       - Fruit: entities/fruit.md
       - Whole Grains: entities/whole-grains.md
+      - Sourdough Bread: entities/sourdough-bread.md
       - Mediterranean Herbs: entities/mediterranean-herbs.md
       - Wine: entities/wine.md
     - Nutrients & Biomarkers:
